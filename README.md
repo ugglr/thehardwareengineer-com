@@ -1,4 +1,4 @@
 # carlw.se
-My personal webpage, blog and playground
+My hardware portfolio page, showcasing my hardware projects, education and other experience within the field. 
 
-It is up and running on www.carlw.se - welcome!
+It is up and running on https://www.thehardwareengineer.com - welcome!
